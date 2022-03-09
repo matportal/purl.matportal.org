@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+
+RewriteEngine on
+RewriteRule ^mid$ https://raw.githubusercontent.com/Mat-O-Lab/MSEO/main/MSEO_mid.owl
